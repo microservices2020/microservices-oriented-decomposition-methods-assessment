@@ -5,4 +5,4 @@ This folder contains the list of papers where the title and abstract were read a
 * #### Study quality assessment. 
 This folder contains the list of specific evaluation factors and the quality assessment results.
 * #### SLR results. 
-This folder contains the application domains of microservices-oriented decomposition methods, summary of the microservices-oriented decomposition methods and experiments data.
+This folder contains the extracted data, the application domains of microservices-oriented decomposition methods, summary of the microservices-oriented decomposition methods and experiments data.
